@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning next.js, mern, django.<br><br>👯 I’m looking to collaborate on full stack projects.<br><br>👨‍💻 All of my projects are available at https://shrikantramani.vercel.app/<br><br>💬 Ask me about react, next, express, django.<br><br>📫 How to reach me shrikantr9024@gmail.com.<br><br>⚡ Fun fact  - Programmers' best friends are coffee and Stack Overflow.
+🌱 I’m currently learning next.js, mern, django.<br><br>👯 I’m looking to collaborate on full stack projects.<br><br>👨‍💻 All of my projects are available at https://shrikantramani.vercel.app/<br><br>💬 Ask me about MERN, next, django.<br><br>📫 How to reach me shrikantr9024@gmail.com.<br><br>⚡ Fun fact  - Programmers' best friends are coffee and Stack Overflow.
 
 
 ## 🌐 Socials:
