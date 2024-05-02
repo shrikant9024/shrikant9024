@@ -1,4 +1,5 @@
-# 💫 About Me:
+
+<div align = center># 💫 About Me:
 🌱 I’m currently learning next.js, mern, django.<br><br>👯 I’m looking to collaborate on full stack projects.<br><br>👨‍💻 All of my projects are available at https://shrikantramani.vercel.app/<br><br>💬 Ask me about MERN, next, django.<br><br>📫 How to reach me shrikantr9024@gmail.com.<br><br>⚡ Fun fact  - Programmers' best friends are coffee and Stack Overflow.
 
 
@@ -16,6 +17,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=shrikant9024&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shrikant9024&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shrikant9024&icon=0&color=0)](https://visitcount.itsvg.in)</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
