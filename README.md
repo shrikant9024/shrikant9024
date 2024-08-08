@@ -1,8 +1,8 @@
 
 
 ![Master Head](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e) 
-<div align = center>
-<h1>💫 About Me:</h1>
+<div align = start>
+<h1>Hi I am Shrikant Ramani</h1>
   <br/>
 💼 I'm  Currently looking for software developer roles.<br><br>🌱 I’m currently learning MERN,<br><br>👯 I’m looking to collaborate on full stack projects.<br><br>👨‍💻 All of my projects are available at https://shrikantramani.vercel.app/<br><br>💬 Ask me about MERN.<br><br>📫 How to reach me shrikantr9024@gmail.com.<br><br>⚡ Fun fact - Programmers' best friends are coffee and Stack Overflow.<br>
 
